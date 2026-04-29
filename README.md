@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 
 <p align="center">
-  🚀 Backend Developer | OS & System Design Enthusiast
+  🚀 Full Stack Developer | OS & System Design Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;OS+Developer;Building+Scalable+Systems🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full StackDevloper+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;OS+Developer;Building+Scalable+Systems🚀" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-k-6232b82b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
