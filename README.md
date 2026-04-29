@@ -54,3 +54,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Piyush-NST/Piyush-NST/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
