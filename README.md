@@ -18,6 +18,13 @@
 
 ---
 
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Piyush-NST/Piyush-NST/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,nodejs,html,css,mysql,git,github,linux,vscode" />
@@ -53,11 +60,4 @@
   <a href="https://www.linkedin.com/in/piyush-k-6232b82b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Piyush-NST/Piyush-NST/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
