@@ -28,12 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-NST&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-NST&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 📈 Activity Graph
