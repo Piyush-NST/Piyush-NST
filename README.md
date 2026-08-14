@@ -11,13 +11,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE (AI) @ NST  
-- 💻 Built **OS-level Typing Tutor in C**  
-- ⚡ Focus: AI/ML and Full Stack Development  
-- 🎯 Goal: Crack top product companies  
-
----
-
+- 🎓 B.Tech CSE (AI) @ NST
+- 💻 Built **OS-level Typing Tutor in C**
+- ⚡ Focus: AI/ML and Full Stack Development
+- 🎯 Goal: Crack top product companies
 
 ---
 
@@ -28,20 +25,11 @@
 
 ---
 
----
-
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-NST&theme=tokyo-night" />
-</p>
-
----
-
 ### 🔥 Featured Project
-🚀 **Typing Tutor (OS Project)**  
-- Custom memory allocator in C  
-- Real-time WPM & accuracy  
-- Terminal-based UI + performance optimized  
+🚀 **Typing Tutor (OS Project)**
+- Custom memory allocator in C
+- Real-time WPM & accuracy
+- Terminal-based UI + performance optimized
 
 ---
 
